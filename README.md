@@ -36,7 +36,7 @@ Database
 
  SQLite
 
-Task Scheduler**
+Task Scheduler
 
 Celery / Celery Beat
 
